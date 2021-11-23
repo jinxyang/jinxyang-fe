@@ -1,0 +1,18 @@
+{
+  "name": "@jinxyang/components",
+  "version": "0.0.1",
+  "description": "components for react with antd",
+  "module": "./es/index.js",
+  "scripts": {
+    "build": "node ../../scripts/build"
+  },
+  "keywords": [
+    "react",
+    "components"
+  ],
+  "files": [
+    "es"
+  ],
+  "author": "Jinxyang",
+  "license": "MIT"
+}

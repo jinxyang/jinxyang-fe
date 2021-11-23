@@ -1,0 +1,12 @@
+{
+  "name": "@jinxyang/hooks",
+  "version": "0.0.1",
+  "description": "hooks for react",
+  "main": "./src/index.js",
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Jinxyang",
+  "license": "MIT"
+}

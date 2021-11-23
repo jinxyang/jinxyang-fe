@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@jinxyang/components": ["./packages/jinxyang-components/src"],
+      "@jinxyang/hooks": ["./packages/jinxyang-hooks/src"],
+      "@jinxyang/utils": ["./packages/jinxyang-utils/src"],
+      "*": ["./src/*"]
+    }
+  }
+}

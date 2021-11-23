@@ -1,0 +1,11 @@
+{
+  "name": "@jinxyang/utils",
+  "version": "0.0.1",
+  "description": "utils",
+  "main": "./src/index.js",
+  "keywords": [
+    "utils"
+  ],
+  "author": "Jinxyang",
+  "license": "MIT"
+}
